@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class HarmonicNumber {
 	public static void main(String[] args) {
+		
 		 //decleration part
 		int num;
 		double sum = 0.0;
